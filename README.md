@@ -6,9 +6,9 @@ A simple login and  register system built with HTML + CSS, Servlet, MySQL, Druid
 
 ## Front-end page display
 
-![image](https://github.com/BWH-Steven/LoginRegister-Simple/blob/master/web/img/loginRegister_bg.jpg)
+![image](https://github.com/BWH-Steven/LoginRegister-Simple/blob/master/web/img/loginPage.png)
 
-##Technologies used
+## Technologies used
 
 - `HTML + CSS` technology to write front-end login and registration page
 - Use `Druid` (alibaba) database connection pooling technology to operate mysql, 'db1' database 'user' table, configuration file: druid.properties
